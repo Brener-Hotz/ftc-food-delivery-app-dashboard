@@ -2,7 +2,6 @@ aiofiles==22.1.0
 aiosqlite==0.18.0
 altair==4.2.2
 anyio==3.6.2
-apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arrow==1.2.3
@@ -38,6 +37,7 @@ DellLinuxAssistant==0.0.0
 distlib==0.3.6
 distro==1.7.0
 distro-info===1.1build1
+docopt==0.6.2
 duplicity==0.8.21
 entrypoints==0.4
 executing==1.2.0
@@ -117,6 +117,7 @@ parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.0.1
+pipreqs==0.4.13
 platformdirs==3.2.0
 plotly==5.14.1
 progressbar==2.5
@@ -203,5 +204,6 @@ widgetsnbextension==4.0.7
 xdg==5
 xkit==0.0.0
 y-py==0.5.9
+yarg==0.1.9
 ypy-websocket==0.8.2
 zipp==1.0.0
