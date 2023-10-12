@@ -81,7 +81,7 @@ Each vision is represented by the following set of metrics.
 # Final result of the project
 Online panel, hosted in a Cloud and available for access from any device connected to the Internet.
 
-The panel can be accessed via this link: 
+The panel can be accessed via this link: https://ftc-food-delivery-dashboard-brener.streamlit.app/
 
 # Conclusion
 My first personal project focused on the transition to a career as a data scientist. My main goal with this project was to develop my programming language skills, which in this case I used Python. In addition, to improve my data analysis skills, I was able to learn how to manipulate the Pandas library and facilitate the visualization and creation of real-time insights through the Streamlit framework.
